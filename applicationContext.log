@@ -1,0 +1,17 @@
+   ______________________________
+ / \                             \.
+|   | This log file was created  |.
+ \_ | by the Wizard, it contains |.
+    | the configuration data     |.
+    | used for the application   |.
+    | generation.                |.
+    |                            |.
+    | It shouldn't be edited     |.
+    | manually, changing it      |.
+    | won't affect the generated |.
+    | sample.                    |.
+    |   _________________________|___
+    |  /                            /.
+    \_/____________________________/.
+
+{"projectName":"AppCreationSAPBTP","projectLocation":"C:\\Users\\mohni\\AndroidStudioProjects\\AppCreationSAPBTP","projectNamespace":"com.company.appcreationsapbtp","accountName":"SAP Mobile Services Trial","serviceURL":"https://1bbed15btrial-dev-com-sap-android-appcreationsapbtp.cfapps.us10-001.hana.ondemand.com/","serverURL":"https://mobile-service-cockpit-web.cfapps.us10.hana.ondemand.com/cockpit/v1/org/1bbed15btrial/space/dev/","applicationID":"com.sap.android.appcreationsapbtp","applicationSecurityConfig":"OAUTH","jsonPath":null,"senderID":null,"serverKey":null,"isLogEnabled":false,"isLogUploadEnabled":false,"SAPSDKLocation":"MAVEN_LOCAL","activationType":"appConfigFile","generateJavaCode":false,"generateOnlineApp":true,"isUsageIncluded":false,"isCrashReportIncluded":true,"isMultipleUserMode":false,"isViewBaseFramework":true}

@@ -1,0 +1,18 @@
+{
+  "__comment": "When modifying this file, you need to reset or reinstall all current client installations",
+  "auth": [{
+      "type": "oauth2",
+      "config": {
+        "oauth2.clients": [
+
+          { "clientID": "14a1f248-e84b-4560-803b-3f7e3d015340", "redirectURL": "https://1bbed15btrial-dev-com-sap-android-appcreationsapbtp.cfapps.us10-001.hana.ondemand.com", "grantType": "authorization_code" }
+        ],
+        "oauth2.tokenEndpoint": "https://1bbed15btrial-dev-com-sap-android-appcreationsapbtp.cfapps.us10-001.hana.ondemand.com/oauth2/api/v1/token",
+        "oauth2.authorizationEndpoint": "https://1bbed15btrial-dev-com-sap-android-appcreationsapbtp.cfapps.us10-001.hana.ondemand.com/oauth2/api/v1/authorize"
+      },
+      "requireOtp": false
+    }],
+  "ServiceUrl" : "https://1bbed15btrial-dev-com-sap-android-appcreationsapbtp.cfapps.us10-001.hana.ondemand.com/",
+  "appID": "com.sap.android.appcreationsapbtp",
+  "multiUser": false
+}

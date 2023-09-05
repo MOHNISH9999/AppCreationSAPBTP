@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".app.QRPage">
+
+
+    <!--    <com.sap.cloud.mobile.fiori.qrcode.QRCodeReaderScreen-->
+    <!--        android:id="@+id/qr_reader"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent">-->
+    <!--    </com.sap.cloud.mobile.fiori.qrcode.QRCodeReaderScreen>-->
+
+<!--    <com.sap.cloud.mobile.fiori.qrcode.QRCodeReaderScreen-->
+<!--        android:id="@+id/qr_reader"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        app:frameContainerRatio="0.5"-->
+<!--        app:frameCornerLength="30dp"-->
+<!--        app:frameCornerLineColor="@color/onboarding_blue_50"-->
+<!--        app:frameCornerLineWidth="4dp"-->
+<!--        app:hintText="Position QR code or barcode in this frame"-->
+<!--        app:isAutoShowFlash="true"-->
+<!--        app:isDrawKeywordUnderLine="true"-->
+<!--        app:isDrawMask="true"-->
+<!--        app:isShowFrameContainer="true"-->
+<!--        app:isShowHintText="true"-->
+<!--        app:isShowScanAnimation="true"-->
+<!--        app:urlKeyword="this"-->
+<!--        app:urlLink="http://www.sap.com" />-->
+    <com.sap.cloud.mobile.fiori.qrcode.QRCodeReaderScreen
+        android:id="@+id/qr_reader"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text=""
+        android:textSize="18sp" />
+
+
+
+</RelativeLayout>
+
+
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->
